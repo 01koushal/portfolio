@@ -1,0 +1,118 @@
+You are designing a personal portfolio website for a Computer Science undergraduate named Koushal Pala.
+
+IMPORTANT RULES:
+- Do NOT use or request a personal photo.
+- The website must NOT look like an AI-generated template.
+- Avoid generic phrases like “passionate developer”, “driven individual”, “tech enthusiast”.
+- Write like a real human software engineer, concise and professional.
+- Tone should be confident, calm, and recruiter-friendly (HR-safe).
+- Design should feel modern, minimal, and aesthetic — not flashy.
+- This is a PORTFOLIO, not a resume webpage.
+
+TARGET AUDIENCE:
+- HR recruiters
+- Software engineering hiring managers
+- Internship and entry-level software roles
+
+DESIGN STYLE:
+- Dark theme by default
+- Clean typography (Inter / similar)
+- Strong layout hierarchy (hero → projects → experience → contact)
+- Use grids and cards, not long paragraphs
+- Plenty of whitespace
+- Subtle accents (no bright gradients everywhere)
+- Smooth, professional UI — feels handcrafted
+
+HERO / FRONT PAGE:
+- Clearly show the name: “Koushal Pala”
+- Use a SAFE title: “Software Engineer” (do NOT narrow to only backend)
+- One short description line:
+  “Computer Science undergraduate building scalable software, automation workflows, and real-world applications.”
+- Clear CTA buttons: “View Projects” and “GitHub”
+- No marketing slogans, no poetic lines
+
+CONTENT TO INCLUDE (USE THESE FACTS):
+
+EDUCATION:
+- B.Tech in Computer Science and Engineering
+- SR University
+- 2023 – 2027
+- CGPA: 8.4
+(Keep education minimal and clean, not highlighted like a resume)
+
+PROJECTS (MOST IMPORTANT SECTION):
+Present these as portfolio project cards or case-study summaries:
+
+1) Fake Certificate Detector  
+   - Full-stack web application
+   - Built using Flask, HTML, CSS, JavaScript
+   - Automated data scraping using Selenium
+   - Server-side validation and REST APIs
+   - Emphasize real-world problem solving and backend architecture
+
+2) AI Shorts Automation Agent  
+   - End-to-end automation pipeline
+   - Generates scripts, audio, subtitles, and short-form videos
+   - Automates YouTube uploads with metadata
+   - Uses Python, n8n, FFmpeg, Hugging Face
+   - Deployed using Docker
+   - Emphasize systems thinking and automation
+
+3) House Price Predictor  
+   - Machine learning project using Linear Regression
+   - Includes data preprocessing, feature selection, evaluation
+   - Deployed as a live web application
+   - Focus on ML fundamentals + deployment
+
+EXPERIENCE:
+- Python Developer Virtual Internship – Infosys Springboard (2025, ongoing)
+  Focus on:
+  - Writing modular Python code
+  - Applying software engineering best practices
+  - Working on real-world problem statements
+
+- AI/ML Virtual Internship – Eduskills (July 2024 – September 2024)
+  Focus on:
+  - Supervised and unsupervised learning
+  - Classification, clustering, preprocessing, evaluation
+
+SKILLS (DO NOT USE SKILL BARS):
+- Languages: Python, Java, JavaScript, SQL, C
+- Backend & Web: Flask, REST APIs, HTML, CSS
+- Tools & DevOps: Git, GitHub, Docker, Selenium, n8n
+- CS Fundamentals: Data Structures & Algorithms, OOP, DBMS, OS
+
+ACHIEVEMENTS:
+- 3rd Prize – SRU Hackathon (1st Year)
+- Certificate of Appreciation for Academic Excellence (2nd Year)
+
+EXTRA SECTIONS TO INCLUDE:
+- “How I Work” or “My Approach” (short bullets about problem-solving, clean code, real-world focus)
+- “Currently Learning / Improving” (optional, short)
+
+CONTACT:
+- GitHub
+- LinkedIn
+- Email
+- No resume download button required
+- No personal photo
+Fake Certificate Detector 
+• Built a full-stack web application using Flask, HTML, CSS, and JavaScript 
+• Implemented server-side validation and automated data scraping using Selenium 
+• Designed REST APIs and modular backend architecture 
+GitHub: github.com/01koushal/techstorm_nexus 
+AI Shorts Automation Agent 
+• Developed an automated video generation pipeline using Python, n8n, FFmpeg, and Hugging Face 
+• Automated subtitle generation, TTS, and YouTube uploads 
+• Deployed using Docker for scalable execution 
+Youtube : https://www.youtube.com/@FactActVibe 
+House Price Predictor – Machine Learning 
+Implemented Linear Regression for price prediction with preprocessing, feature selection, and model 
+evaluation. Deployed the model on Render. 
+Deployment: https://house-price-prediction-ko64.onrender.com/ 
+FINAL REQUIREMENTS:
+- The site must feel like a real engineer’s portfolio, not a student assignment.
+- Layout and spacing should matter as much as content.
+- Keep text tight, readable, and intentional.
+- If generating code, use clean semantic HTML and modern CSS.
+lnks:https://github.com/01koushal,https://www.linkedin.com/in/koushalpala,koushalpala@gmail.com
